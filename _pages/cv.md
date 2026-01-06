@@ -22,6 +22,6 @@ Work experience
   
 Skills
 ======
-* Active Listener
-* Problem Solver
-* Team worker,
+* Active Listener.
+* Problem Solver.
+* Team worker.
